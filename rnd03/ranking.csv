@@ -1,41 +1,41 @@
 Rank;Name;Flags;Score;Federation;Gender;Rating;TPR;W-We;BH;SB
 1;"Philip Westerduin";;3.0;   ;M;1988 *;0;0; 5.0; 5.0
-2;"Maurits Bons";;3.0;;M;1773 *;0;0; 5.0; 5.0
-3;"Paul Hummel";;3.0;   ;M;2191 *;0;0; 4.0; 4.0
-4;"Rachid Schrik";;3.0;   ;M;2097 *;0;0; 4.0; 4.0
-5;"Aileshwar Ramcharan";;3.0;   ;M;1747 *;0;0; 4.0; 4.0
-6;"Frank Verkooijen";;2.5;;M;2039 *;0;0; 4.5; 3.75
-7;"Bert van der Marel";;2.5;;M;2081 *;0;0; 4.5; 3.5
-8;"Adrie Borrenans";;2.5;;M;2000 *;0;0; 4.0; 3.25
-9;"Jaume Gotes Perez";;2.5;;M;1940 *;0;0; 3.5; 3.25
-10;"Peter de Korver";;2.5;   ;M;2018 *;0;0; 3.5; 2.75
+2;"Lendert Van den Ouden";;3.0;   ;M;2131 *;0;0; 4.5; 4.5
+3;"Maurits Bons";;3.0;;M;1773 *;0;0; 4.5; 4.5
+4;"Paul Hummel";;3.0;   ;M;2191 *;0;0; 4.0; 4.0
+5;"Rachid Schrik";;3.0;   ;M;2097 *;0;0; 4.0; 4.0
+6;"Aileshwar Ramcharan";;3.0;   ;M;1747 *;0;0; 4.0; 4.0
+7;"Frank Verkooijen";;2.5;;M;2039 *;0;0; 4.5; 3.75
+8;"Bert van der Marel";;2.5;;M;2081 *;0;0; 4.5; 3.5
+9;"Adrie Borrenans";;2.5;;M;2000 *;0;0; 4.0; 3.25
+10;"Jaume Gotes Perez";;2.5;;M;1940 *;0;0; 3.5; 3.25
 11;"Chingthang Ngangbam";;2.5;;M;1992 *;0;0; 3.5; 2.75
 12;"Ton Bodaan";;2.0;   ;M;1978 *;0;0; 6.5; 4.25
 13;"Dorus Brouwer";;2.0;   ;M;1680 *;0;0; 6.0; 3.0
 14;"Jungbin Lee";;2.0;;M;2011 *;0;0; 5.5; 3.75
-15;"Lendert Van den Ouden";;2.0;   ;M;2131 *;0;0; 5.5; 2.5
-16;"Joaquin Aarts";;2.0;;M;2123 *;0;0; 5.0; 3.0
-17;"Henk Ochtman";;2.0;   ;M;2034 *;0;0; 5.0; 2.0
-18;"Andre Wagner";;2.0;   ;M;1868 *;0;0; 5.0; 2.0
-19;"Kamar Muhannad";;2.0;;M;1922 *;0;0; 5.0; 2.0
-20;"Machiel van Soest";;2.0;;M;500 *;0;0; 4.5; 2.0
-21;"Willem de Koster";;2.0;   ;M;1837 *;0;0; 4.0; 2.0
-22;"Jona can de Poel";;2.0;;M;1959 *;0;0; 4.0; 2.0
-23;"Ben Spierings";;2.0;;M;1875 *;0;0; 4.0; 2.0
-24;"Wouter Doorn";;2.0;;M;1636 *;0;0; 4.0; 2.0
-25;"Jules Immerzeel";;2.0;   ;M;1576 *;0;0; 4.0; 1.0
-26;"Bart Kroon";;2.0;   ;M;1839 *;0;0; 3.5; 1.5
-27;"Wilco van de Velde";;2.0;;M;1782 *;0;0; 3.5; 0.5
-28;"Paul Koks";;2.0;   ;M;1683 *;0;0; 3.0; 2.0
-29;"Tony Zhang";;2.0;;M;2202 *;0;0; 3.0; 2.0
-30;"Rik Langeveld";;2.0;   ;M;1823 *;0;0; 3.0; 1.0
-31;"Lakshay Narasimhan";;1.5;   ;M;1468 *;0;0; 6.5; 2.75
-32;"Lennard de Korver";;1.5;   ;M;1574 *;0;0; 6.0; 2.25
-33;"Marti Sans";;1.5;   ;M;1800 *;0;0; 5.5; 1.75
+15;"Joaquin Aarts";;2.0;;M;2123 *;0;0; 5.0; 3.0
+16;"Henk Ochtman";;2.0;   ;M;2034 *;0;0; 5.0; 2.0
+17;"Andre Wagner";;2.0;   ;M;1868 *;0;0; 5.0; 2.0
+18;"Kamar Muhannad";;2.0;;M;1922 *;0;0; 5.0; 2.0
+19;"Machiel van Soest";;2.0;;M;500 *;0;0; 5.0; 2.0
+20;"Willem de Koster";;2.0;   ;M;1837 *;0;0; 4.0; 2.0
+21;"Jona can de Poel";;2.0;;M;1959 *;0;0; 4.0; 2.0
+22;"Ben Spierings";;2.0;;M;1875 *;0;0; 4.0; 2.0
+23;"Wouter Doorn";;2.0;;M;1636 *;0;0; 4.0; 2.0
+24;"Jules Immerzeel";;2.0;   ;M;1576 *;0;0; 4.0; 1.0
+25;"Bart Kroon";;2.0;   ;M;1839 *;0;0; 3.5; 1.5
+26;"Wilco van de Velde";;2.0;;M;1782 *;0;0; 3.5; 0.5
+27;"Paul Koks";;2.0;   ;M;1683 *;0;0; 3.0; 2.0
+28;"Tony Zhang";;2.0;;M;2202 *;0;0; 3.0; 2.0
+29;"Rik Langeveld";;2.0;   ;M;1823 *;0;0; 3.0; 1.0
+30;"Lakshay Narasimhan";;1.5;   ;M;1468 *;0;0; 6.5; 2.75
+31;"Marti Sans";;1.5;   ;M;1800 *;0;0; 5.5; 1.75
+32;"Eric Alvares";;1.5;;M;1744 *;0;0; 5.5; 1.75
+33;"Lennard de Korver";;1.5;   ;M;1574 *;0;0; 5.0; 1.75
 34;"Vincent Geerlings";;1.5;   ;M;1912 *;0;0; 5.0; 1.25
-35;"Eric Alvares";;1.5;;M;1744 *;0;0; 4.5; 1.75
-36;"Jelmer Wiegel";;1.5;   ;M;1000 *;0;0; 4.5; 1.25
-37;"Leon Mau-Asam";;1.5;   ;M;1925 *;0;0; 4.5; 1.0
+35;"Jelmer Wiegel";;1.5;   ;M;1000 *;0;0; 4.5; 1.25
+36;"Leon Mau-Asam";;1.5;   ;M;1925 *;0;0; 4.5; 1.0
+37;"Peter de Korver";;1.5;   ;M;2018 *;0;0; 4.5; 0.75
 38;"Leo Bolle";;1.5;   ;M;1936 *;0;0; 4.0; 0.75
 39;"Varun Kumar";;1.5;;M;1000 *;0;0; 3.5; 1.25
 40;"Jie-Ren Tjin A Lien";;1.0;   ;M;1802 *;0;0; 7.5; 2.0
@@ -43,9 +43,9 @@ Rank;Name;Flags;Score;Federation;Gender;Rating;TPR;W-We;BH;SB
 42;"Daan Wille";;1.0;;M;1928 *;0;0; 6.0; 1.0
 43;"Jaco Arkensteijn";;1.0;;M;1766 *;0;0; 6.0; 1.0
 44;"Floris Graveland";;1.0;;M;1200 *;0;0; 6.0; 1.0
-45;"Barend Lavrijsen";;1.0;;M;1540 *;0;0; 6.0; 1.0
-46;"Koen Simonides";;1.0;;M;1200 *;0;0; 5.0; 1.0
-47;"Hans Mes";;1.0;;M;1704 *;0;0; 5.0; 1.0
+45;"Hans Mes";;1.0;;M;1704 *;0;0; 6.0; 1.0
+46;"Barend Lavrijsen";;1.0;;M;1540 *;0;0; 6.0; 1.0
+47;"Koen Simonides";;1.0;;M;1200 *;0;0; 5.0; 1.0
 48;"Ruben van Bussel";;1.0;;M;1735 *;0;0; 5.0; 0.0
 49;"Rene Weerts";;1.0;;M;1733 *;0;0; 5.0; 0.0
 50;"Rithanya Ragesh";;1.0;   ;F;1524 *;0;0; 4.5; 0.0
@@ -60,10 +60,10 @@ Rank;Name;Flags;Score;Federation;Gender;Rating;TPR;W-We;BH;SB
 59;"Tom van Boheemen";;0.5;   ;M;1782 *;0;0; 6.5; 1.25
 60;"Kees Roest";;0.5;   ;M;1000 *;0;0; 4.0; 0.25
 61;"Ans van Soest";;0.5;;F;1120 *;0;0; 4.0; 0.25
-62;"Rogier Wolff";;0.0;   ;M;600 *;0;0; 5.0; 0.0
-63;"Sylvia van den Berg";;0.0;   ;F;500 *;0;0; 4.5; 0.0
-64;"Chris van den Berg";;0.0;   ;M;500 *;0;0; 4.5; 0.0
-65;"Floris van der Kellen";;0.0;   ;M;1048 *;0;0; 4.0; 0.0
-66;"Gayathri Rathna Subramania";;0.0;   ;M;1013 *;0;0; 4.0; 0.0
-67;"Mavin de Moulin";;0.0;   ;M;916 *;0;0; 4.0; 0.0
+62;"Sylvia van den Berg";;0.0;   ;F;500 *;0;0; 4.5; 0.0
+63;"Chris van den Berg";;0.0;   ;M;500 *;0;0; 4.5; 0.0
+64;"Floris van der Kellen";;0.0;   ;M;1048 *;0;0; 4.0; 0.0
+65;"Gayathri Rathna Subramania";;0.0;   ;M;1013 *;0;0; 4.0; 0.0
+66;"Mavin de Moulin";;0.0;   ;M;916 *;0;0; 4.0; 0.0
+67;"Rogier Wolff";;0.0;   ;M;600 *;0;0; 4.0; 0.0
 68;"Surya Rathna Subramanian";;0.0;   ;M;627 *;0;0; 4.0; 0.0
