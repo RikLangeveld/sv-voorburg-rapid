@@ -1,69 +1,69 @@
 Rank;Name;Flags;Score;Federation;Gender;Rating;TPR;W-We;BH;SB
-1;"Dorus Brouwer";;2.0;   ;M;1680 *;0;0; 2.0; 2.0
-2;"Paul Hummel";;2.0;   ;M;2191 *;0;0; 2.0; 2.0
-3;"Lendert Van den Ouden";;2.0;   ;M;2131 *;0;0; 2.0; 2.0
-4;"Philip Westerduin";;2.0;   ;M;1988 *;0;0; 2.0; 2.0
-5;"Aileshwar Ramcharan";;2.0;   ;M;1747 *;0;0; 2.0; 2.0
-6;"Maurits Bons";;2.0;;M;1773 *;0;0; 2.0; 2.0
-7;"Henk Ochtman";;2.0;   ;M;2034 *;0;0; 1.0; 1.0
-8;"Andre Wagner";;2.0;   ;M;1868 *;0;0; 1.0; 1.0
-9;"Rachid Schrik";;2.0;   ;M;2097 *;0;0; 1.0; 1.0
-10;"Machiel van Soest";;2.0;;M;500 *;0;0; 1.0; 1.0
-11;"Wilco van de Velde";;2.0;;M;1782 *;0;0; 0.5; 0.5
-12;"Ton Bodaan";;1.5;   ;M;1978 *;0;0; 2.5; 1.75
-13;"Lennard de Korver";;1.5;   ;M;1574 *;0;0; 2.5; 1.75
-14;"Frank Verkooijen";;1.5;;M;2039 *;0;0; 2.5; 1.75
-15;"Jungbin Lee";;1.5;;M;2011 *;0;0; 2.5; 1.75
-16;"Lakshay Narasimhan";;1.5;   ;M;1468 *;0;0; 2.0; 1.25
-17;"Adrie Borrenans";;1.5;;M;2000 *;0;0; 2.0; 1.25
-18;"Peter de Korver";;1.5;   ;M;2018 *;0;0; 1.5; 0.75
-19;"Leon Mau-Asam";;1.5;   ;M;1925 *;0;0; 1.5; 0.75
-20;"Vincent Geerlings";;1.5;   ;M;1912 *;0;0; 1.5; 0.75
-21;"Bert van der Marel";;1.5;;M;2081 *;0;0; 1.5; 0.75
-22;"Chingthang Ngangbam";;1.5;;M;1992 *;0;0; 1.0; 0.75
-23;"Jaume Gotes Perez";;1.5;;M;1940 *;0;0; 1.0; 0.75
-24;"Jie-Ren Tjin A Lien";;1.0;   ;M;1802 *;0;0; 3.0; 1.0
-25;"Willem de Koster";;1.0;   ;M;1837 *;0;0; 3.0; 1.0
-26;"Joaquin Aarts";;1.0;;M;2123 *;0;0; 3.0; 1.0
-27;"Jona can de Poel";;1.0;;M;1959 *;0;0; 3.0; 1.0
-28;"Lothar van der Sluijs";;1.0;;M;1864 *;0;0; 3.0; 1.0
-29;"Jules Immerzeel";;1.0;   ;M;1576 *;0;0; 2.0; 0.0
-30;"Daan Wille";;1.0;;M;1928 *;0;0; 2.0; 0.0
-31;"Ben Spierings";;1.0;;M;1875 *;0;0; 2.0; 0.0
-32;"Jaco Arkensteijn";;1.0;;M;1766 *;0;0; 2.0; 0.0
-33;"Eric Alvares";;1.0;;M;1744 *;0;0; 2.0; 0.0
-34;"Rene Weerts";;1.0;;M;1733 *;0;0; 2.0; 0.0
-35;"Floris Graveland";;1.0;;M;1200 *;0;0; 2.0; 0.0
-36;"Koen Simonides";;1.0;;M;1200 *;0;0; 2.0; 0.0
-37;"Hans Mes";;1.0;;M;1704 *;0;0; 2.0; 0.0
-38;"Barend Lavrijsen";;1.0;;M;1540 *;0;0; 2.0; 0.0
-39;"Kamar Muhannad";;1.0;;M;1922 *;0;0; 2.0; 0.0
-40;"Bart Kroon";;1.0;   ;M;1839 *;0;0; 1.5; 0.5
-41;"Leo Bolle";;1.0;   ;M;1936 *;0;0; 1.5; 0.0
-42;"Rik Langeveld";;1.0;   ;M;1823 *;0;0; 1.5; 0.0
-43;"Wouter Doorn";;1.0;;M;1636 *;0;0; 1.5; 0.0
-44;"Ralph van der Burg";;1.0;;M;0 *;0;0; 1.5; 0.0
-45;"Martin Wiersma";;1.0;   ;M;1804 *;0;0; 1.0; 0.0
-46;"Paul Koks";;1.0;   ;M;1683 *;0;0; 1.0; 0.0
-47;"Tony Zhang";;1.0;;M;2202 *;0;0; 1.0; 0.0
-48;"Thomas Bohner";;1.0;;M;1284 *;0;0; 1.0; 0.0
-49;"Marti Sans";;0.5;   ;M;1800 *;0;0; 3.0; 0.75
-50;"Tom van Boheemen";;0.5;   ;M;1782 *;0;0; 3.0; 0.75
-51;"Kees Roest";;0.5;   ;M;1000 *;0;0; 2.5; 0.25
-52;"Jelmer Wiegel";;0.5;   ;M;1000 *;0;0; 2.0; 0.25
-53;"Varun Kumar";;0.5;;M;1000 *;0;0; 2.0; 0.25
-54;"Ans van Soest";;0.5;;F;1120 *;0;0; 1.5; 0.25
-55;"Floris van der Kellen";;0.0;   ;M;1048 *;0;0; 3.0; 0.0
-56;"Gayathri Rathna Subramania";;0.0;   ;M;1013 *;0;0; 3.0; 0.0
-57;"Mavin de Moulin";;0.0;   ;M;916 *;0;0; 3.0; 0.0
-58;"Surya Rathna Subramanian";;0.0;   ;M;627 *;0;0; 3.0; 0.0
-59;"Ruben van Bussel";;0.0;;M;1735 *;0;0; 3.0; 0.0
-60;"Rithanya Ragesh";;0.0;   ;F;1524 *;0;0; 2.5; 0.0
-61;"Rogier Wolff";;0.0;   ;M;600 *;0;0; 2.5; 0.0
-62;"Sylvia van den Berg";;0.0;   ;F;500 *;0;0; 2.5; 0.0
-63;"Chris van den Berg";;0.0;   ;M;500 *;0;0; 2.5; 0.0
-64;"Ike Tjin A Lien";;0.0;   ;M;1776 *;0;0; 2.0; 0.0
-65;"Dakshesh N. Neelakantan";;0.0;   ;M;1658 *;0;0; 2.0; 0.0
-66;"Sebastiaan Steenbergh";;0.0;   ;M;1424 *;0;0; 2.0; 0.0
-67;"Kaya Grguric";;0.0;   ;M;1169 *;0;0; 2.0; 0.0
-68;"Parv Garg";;0.0;   ;M;1357 *;0;0; 2.0; 0.0
+1;"Dorus Brouwer";;2.0;   ;M;1680;2378;+0.83; 2.0; 2.0
+2;"Paul Hummel";;2.0;   ;M;2191;2660;+0.26; 2.0; 2.0
+3;"Lendert Van den Ouden";;2.0;   ;M;2131;2538;+0.17; 2.0; 2.0
+4;"Philip Westerduin";;2.0;   ;M;1988;2628;+0.60; 2.0; 2.0
+5;"Aileshwar Ramcharan";;2.0;   ;M;1747;2244;+0.31; 2.0; 2.0
+6;"Maurits Bons";;2.0;;M;1773;2489;+0.79; 2.0; 2.0
+7;"Henk Ochtman";;2.0;   ;M;2034;2679;+0.70; 1.0; 1.0
+8;"Andre Wagner";;2.0;   ;M;1868;2514;+0.70; 1.0; 1.0
+9;"Rachid Schrik";;2.0;   ;M;2097;2600;+0.31; 1.0; 1.0
+10;"Machiel van Soest";;2.0;;M;500;1700;+1.84; 1.0; 1.0
+11;"Wilco van de Velde";;2.0;;M;1782;2182;+0.16; 0.5; 0.5
+12;"Ton Bodaan";;1.5;   ;M;1978;2052;+0.26; 2.5; 1.75
+13;"Lennard de Korver";;1.5;   ;M;1574;1974;+0.42; 2.5; 1.75
+14;"Frank Verkooijen";;1.5;;M;2039;2117;+0.19; 2.5; 1.75
+15;"Jungbin Lee";;1.5;;M;2011;2067;+0.14; 2.5; 1.75
+16;"Lakshay Narasimhan";;1.5;   ;M;1468;1661;+0.50; 2.0; 1.25
+17;"Adrie Borrenans";;1.5;;M;2000;1793;-0.34; 2.0; 1.25
+18;"Peter de Korver";;1.5;   ;M;2018;1811;-0.34; 1.5; 0.75
+19;"Leon Mau-Asam";;1.5;   ;M;1925;1961;+0.20; 1.5; 0.75
+20;"Vincent Geerlings";;1.5;   ;M;1912;1969;+0.25; 1.5; 0.75
+21;"Bert van der Marel";;1.5;;M;2081;2023;-0.06; 1.5; 0.75
+22;"Chingthang Ngangbam";;1.5;;M;1992;1984;-0.02; 1.0; 0.75
+23;"Jaume Gotes Perez";;1.5;;M;1940;1984;+0.10; 1.0; 0.75
+24;"Jie-Ren Tjin A Lien";;1.0;   ;M;1802;1988;+0.38; 3.0; 1.0
+25;"Willem de Koster";;1.0;   ;M;1837;1437;-0.84; 3.0; 1.0
+26;"Joaquin Aarts";;1.0;;M;2123;1937;-0.46; 3.0; 1.0
+27;"Jona can de Poel";;1.0;;M;1959;1836;-0.33; 3.0; 1.0
+28;"Lothar van der Sluijs";;1.0;;M;1864;1890;+0.05; 3.0; 1.0
+29;"Jules Immerzeel";;1.0;   ;M;1576;1475;-0.17; 2.0; 0.0
+30;"Daan Wille";;1.0;;M;1928;1984;+0.12; 2.0; 0.0
+31;"Ben Spierings";;1.0;;M;1875;1578;-0.67; 2.0; 0.0
+32;"Jaco Arkensteijn";;1.0;;M;1766;1971;+0.43; 2.0; 0.0
+33;"Eric Alvares";;1.0;;M;1744;1744;+0.00; 2.0; 0.0
+34;"Rene Weerts";;1.0;;M;1733;1661;-0.11; 2.0; 0.0
+35;"Floris Graveland";;1.0;;M;1200;1385;+0.38; 2.0; 0.0
+36;"Koen Simonides";;1.0;;M;1200;1600;+0.84; 2.0; 0.0
+37;"Hans Mes";;1.0;;M;1704;1764;+0.08; 2.0; 0.0
+38;"Barend Lavrijsen";;1.0;;M;1540;1458;-0.13; 2.0; 0.0
+39;"Kamar Muhannad";;1.0;;M;1922;1755;-0.33; 2.0; 0.0
+40;"Bart Kroon";;1.0;   ;M;1839;1781;-0.08; 1.5; 0.5
+41;"Leo Bolle";;1.0;   ;M;1936;1788;-0.28; 1.5; 0.0
+42;"Rik Langeveld";;1.0;   ;M;1823;1717;-0.18; 1.5; 0.0
+43;"Wouter Doorn";;1.0;;M;1636;1751;+0.23; 1.5; 0.0
+44;"Ralph van der Burg";;1.0;;M;0;1311;0; 1.5; 0.0
+45;"Martin Wiersma";;1.0;   ;M;1804;1682;-0.21; 1.0; 0.0
+46;"Paul Koks";;1.0;   ;M;1683;1800;+0.31; 1.0; 0.0
+47;"Tony Zhang";;1.0;;M;2202;1802;-0.84; 1.0; 0.0
+48;"Thomas Bohner";;1.0;;M;1284;1300;+0.02; 1.0; 0.0
+49;"Marti Sans";;0.5;   ;M;1800;1773;-0.06; 3.0; 0.75
+50;"Tom van Boheemen";;0.5;   ;M;1782;1773;-0.02; 3.0; 0.75
+51;"Kees Roest";;0.5;   ;M;1000;1067;+0.08; 2.5; 0.25
+52;"Jelmer Wiegel";;0.5;   ;M;1000;1007;-0.08; 2.0; 0.25
+53;"Varun Kumar";;0.5;;M;1000;1007;-0.08; 2.0; 0.25
+54;"Ans van Soest";;0.5;;F;1120;1067;-0.24; 1.5; 0.25
+55;"Floris van der Kellen";;0.0;   ;M;1048;648;-0.08; 3.0; 0.0
+56;"Gayathri Rathna Subramania";;0.0;   ;M;1013;213;-1.00; 3.0; 0.0
+57;"Mavin de Moulin";;0.0;   ;M;916;500;-0.18; 3.0; 0.0
+58;"Surya Rathna Subramanian";;0.0;   ;M;627;227;-0.16; 3.0; 0.0
+59;"Ruben van Bussel";;0.0;;M;1735;1090;-0.67; 3.0; 0.0
+60;"Rithanya Ragesh";;0.0;   ;F;1524;980;-0.43; 2.5; 0.0
+61;"Rogier Wolff";;0.0;   ;M;600;200;-0.16; 2.5; 0.0
+62;"Sylvia van den Berg";;0.0;   ;F;500;100;-0.16; 2.5; 0.0
+63;"Chris van den Berg";;0.0;   ;M;500;100;-0.16; 2.5; 0.0
+64;"Rene Weerts";;1.0;;M;1733;1661;-0.11; 2.0; 0.0
+65;"Ike Tjin A Lien";;0.0;   ;M;1776;1047;-0.81; 2.0; 0.0
+66;"Dakshesh N. Neelakantan";;0.0;   ;M;1658;858;-1.00; 2.0; 0.0
+67;"Sebastiaan Steenbergh";;0.0;   ;M;1424;964;-0.24; 2.0; 0.0
+68;"Kaya Grguric";;0.0;   ;M;1169;570;-0.56; 2.0; 0.0

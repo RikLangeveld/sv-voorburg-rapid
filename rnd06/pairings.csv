@@ -1,36 +1,36 @@
 Board;WhiteNr;WhiteFideId;WhiteName;WhiteElo;WhitePoints;Result;BlackPoints;BlackElo;BlackName;BlackFideId;BlackNr
-1;19;8098827;"Paul Hummel";2191;5.0;*;5.0;2131;"Lendert Van den Ouden";8111147;20
-2;49;8104767;"Tony Zhang";2202;4.0;*;4.0;1988;"Philip Westerduin";7411767;23
-3;14;7659916;"Maurits Bons";1773;4.0;*;4.0;2123;"Joaquin Aarts";8610294;50
-4;1;6948337;"Henk Ochtman";2034;4.0;*;4.0;1747;"Aileshwar Ramcharan";9096153;26
-5;21;7623528;"Rachid Schrik";2097;4.0;*;3.5;2018;"Peter de Korver";6262465;2
-6;73;7992743;"Kamar Muhannad";1922;3.5;*;3.5;2039;"Frank Verkooijen";7376611;51
-7;53;8869729;"Chingthang Ngangbam";1992;3.5;*;3.5;2081;"Bert van der Marel";6960052;70
-8;3;9041780;"Leon Mau-Asam";1925;3.5;*;3.5;1959;"Jona can de Poel";8707633;54
-9;7;8946377;"Bart Kroon";1839;3.0;*;3.0;1733;"Rene Weerts";7439454;63
-10;47;;"Machiel van Soest";500;3.0;*;3.0;1766;"Jaco Arkensteijn";8100422;60
-11;9;8946355;"Rik Langeveld";1823;3.0;*;3.0;1576;"Jules Immerzeel";9095999;17
-12;69;8886669;"Hans Mes";1704;3.0;*;3.0;1864;"Lothar van der Sluijs";7634297;58
-13;16;7807943;"Paul Koks";1683;3.0;*;3.0;1636;"Wouter Doorn";8827203;64
-14;22;7057886;"Ton Bodaan";1978;3.0;*;3.0;1837;"Willem de Koster";7962669;25
-15;52;8547814;"Jungbin Lee";2011;3.0;*;2.5;1000;"Jelmer Wiegel";;38
-16;12;8963053;"Tom van Boheemen";1782;2.5;*;2.5;1802;"Jie-Ren Tjin A Lien";8636155;6
-17;55;8959203;"Jaume Gotes Perez";1940;2.5;*;2.5;1912;"Vincent Geerlings";7796041;4
-18;71;;"Adrie Borrenans";2000;2.5;*;2.5;1800;"Marti Sans";;10
-19;5;7460365;"Andre Wagner";1868;2.5;*;2.5;1468;"Lakshay Narasimhan";9066761;32
-20;11;9031858;"Martin Wiersma";1804;2.5;*;2.5;1936;"Leo Bolle";8979707;8
-21;67;;"Koen Simonides";1200;2.0;*;2.0;1928;"Daan Wille";9050228;56
-22;27;9112862;"Dakshesh N. Neelakantan";1658;2.0;*;2.0;1680;"Dorus Brouwer";9014698;15
-23;28;7984592;"Lennard de Korver";1574;2.0;*;2.0;1735;"Ruben van Bussel";9033002;62
-24;13;8081095;"Ike Tjin A Lien";1776;2.0;*;2.0;1782;"Wilco van de Velde";9042759;24
-25;57;7667242;"Ben Spierings";1875;2.0;*;2.0;1357;"Parv Garg";9114512;34
-26;30;9032320;"Rithanya Ragesh";1524;2.0;*;2.0;1200;"Floris Graveland";;66
-27;61;7794303;"Eric Alvares";1744;1.5;*;1.5;1000;"Kees Roest";;39
-28;59;9123862;"Varun Kumar";1000;1.5;*;1.5;1424;"Sebastiaan Steenbergh";9080852;29
-29;68;9086055;"Ans van Soest";1120;1.5;*;1.5;1540;"Barend Lavrijsen";7984592;72
-30;46;9127294;"Chris van den Berg";500;1.0;*;1.0;1013;"Gayathri Rathna Subramania";8995206;40
-31;44;;"Rogier Wolff";600;1.0;*;1.0;0;"Ralph van der Burg";;43
-32;42;9086033;"Mavin de Moulin";916;1.0;*;1.0;1169;"Kaya Grguric";8985350;33
-33;37;9087969;"Floris van der Kellen";1048;0.0;*;0.0;627;"Surya Rathna Subramanian";9094998;48
--;45;9126304;"Sylvia van den Berg";500;0.0;1;;;
+1;19;8098827;"Paul Hummel";2191;5.0;0-1;5.0;2131;"Lendert Van den Ouden";8111147;20
+2;49;8104767;"Tony Zhang";2202;4.0;1-0;4.0;1988;"Philip Westerduin";7411767;23
+3;14;7659916;"Maurits Bons";1773;4.0;0-1;4.0;2123;"Joaquin Aarts";8610294;50
+4;1;6948337;"Henk Ochtman";2034;4.0;1-0;4.0;1747;"Aileshwar Ramcharan";9096153;26
+5;21;7623528;"Rachid Schrik";2097;4.0;1-0;3.5;2018;"Peter de Korver";6262465;2
+6;73;7992743;"Kamar Muhannad";1922;3.5;0-1;3.5;2039;"Frank Verkooijen";7376611;51
+7;53;8869729;"Chingthang Ngangbam";1992;3.5;0-1;3.5;2081;"Bert van der Marel";6960052;70
+8;3;9041780;"Leon Mau-Asam";1925;3.5;1-0;3.5;1959;"Jona can de Poel";8707633;54
+9;7;8946377;"Bart Kroon";1839;3.0;1-0;3.0;1733;"Rene Weerts";7439454;63
+10;47;;"Machiel van Soest";500;3.0;1-0;3.0;1766;"Jaco Arkensteijn";8100422;60
+11;9;8946355;"Rik Langeveld";1823;3.0;1-0;3.0;1576;"Jules Immerzeel";9095999;17
+12;69;8886669;"Hans Mes";1704;3.0;1-0;3.0;1864;"Lothar van der Sluijs";7634297;58
+13;16;7807943;"Paul Koks";1683;3.0;0-1;3.0;1636;"Wouter Doorn";8827203;64
+14;22;7057886;"Ton Bodaan";1978;3.0;0-1;3.0;1837;"Willem de Koster";7962669;25
+15;52;8547814;"Jungbin Lee";2011;3.0;1-0;2.5;1000;"Jelmer Wiegel";;38
+16;12;8963053;"Tom van Boheemen";1782;2.5;1-0;2.5;1802;"Jie-Ren Tjin A Lien";8636155;6
+17;55;8959203;"Jaume Gotes Perez";1940;2.5;0-1;2.5;1912;"Vincent Geerlings";7796041;4
+18;71;;"Adrie Borrenans";2000;2.5;1/2-1/2;2.5;1800;"Marti Sans";;10
+19;5;7460365;"Andre Wagner";1868;2.5;1-0;2.5;1468;"Lakshay Narasimhan";9066761;32
+20;11;9031858;"Martin Wiersma";1804;2.5;0-1;2.5;1936;"Leo Bolle";8979707;8
+21;67;;"Koen Simonides";1200;2.0;0-1;2.0;1928;"Daan Wille";9050228;56
+22;27;9112862;"Dakshesh N. Neelakantan";1658;2.0;0-1;2.0;1680;"Dorus Brouwer";9014698;15
+23;28;7984592;"Lennard de Korver";1574;2.0;0-1;2.0;1735;"Ruben van Bussel";9033002;62
+24;13;8081095;"Ike Tjin A Lien";1776;2.0;1-0;2.0;1782;"Wilco van de Velde";9042759;24
+25;57;7667242;"Ben Spierings";1875;2.0;1-0;2.0;1357;"Parv Garg";9114512;34
+26;30;9032320;"Rithanya Ragesh";1524;2.0;0-1;2.0;1200;"Floris Graveland";;66
+27;61;7794303;"Eric Alvares";1744;1.5;1-0;1.5;1000;"Kees Roest";;39
+28;59;9123862;"Varun Kumar";1000;1.5;1-0;1.5;1424;"Sebastiaan Steenbergh";9080852;29
+29;68;9086055;"Ans van Soest";1120;1.5;0-1;1.5;1540;"Barend Lavrijsen";7984592;72
+30;46;9127294;"Chris van den Berg";500;1.0;1/2-1/2;1.0;1013;"Gayathri Rathna Subramania";8995206;40
+31;44;;"Rogier Wolff";600;1.0;0-1;1.0;0;"Ralph van der Burg";;43
+32;42;9086033;"Mavin de Moulin";916;1.0;0-1;1.0;1169;"Kaya Grguric";8985350;33
+33;37;9087969;"Floris van der Kellen";1048;0.0;1-0;0.0;627;"Surya Rathna Subramanian";9094998;48
+-;45;9126304;"Sylvia van den Berg";500;0.0;1;;;pairing allocated bye
 -;65;9129615;"Thomas Bohner";1284;1.0;0;;;bye
