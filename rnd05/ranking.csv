@@ -29,9 +29,9 @@ Rank;Name;Flags;Score;Federation;Gender;Rating;TPR;W-We
 28;"Van de Pol, Johan";;3.0;PNG;M;0 *;1575;1575
 29;"Hogenboom, Esther";;2.5;NED;F;1742;1487;-0.68
 30;"Guitierrez Fernandez, José";;2.5;NED;M;1731;1644;-0.03
-31;"Hermsen, Jan";;2.5;NED;M;1599;1334;-1.13
-32;"Kricha, Alano";;2.5;NED;M;1550 *;1557;1557
-33;"Grguric, Kaya";;2.5;NED;M;1542;1734;+0.50
+31;"Kricha, Alano";;2.5;NED;M;1550 *;1557;1557
+32;"Grguric, Kaya";;2.5;NED;M;1542;1734;+0.50
+33;"Van Ouwerkerk, Christiaan";;2.5;NED;M;0 *;1881;+1.00
 34;"Hofland, Jeffrey";;2.0;NED;M;1817;1403;-1.72
 35;"Bons, Maurits";;2.0;NED;M;1705;1562;-0.65
 36;"Kievit, Jaap";;2.0;NED;M;1424;1029;-0.21
@@ -47,8 +47,8 @@ Rank;Name;Flags;Score;Federation;Gender;Rating;TPR;W-We
 46;"Verhagen, Huub";;2.0;NED;M;0 *;1409;1409
 47;"Verlinden, Robbie";;2.0;NED;M;0 *;1081;1081
 48;"Yi, Lin Han";;2.0;NED;F;0 *;1220;1220
-49;"De Moulin, Marvin";;1.5;NED;M;1196;1272;-0.07
-50;"Van Ouwerkerk, Christiaan";;1.5;NED;M;0 *;1608;1608
+49;"Hermsen, Jan";;1.5;NED;M;1599;1334;-1.13
+50;"De Moulin, Marvin";;1.5;NED;M;1196;1272;-0.07
 51;"Borsboom, Frederik";;1.0;NED;M;1382;738;-0.81
 52;"Van den Heuvel, Milan";;1.0;NED;M;1210;1336;-0.25
 53;"Selvakumar, Vidhulan";;1.0;NED;M;1132;1159;-0.30

@@ -1,34 +1,34 @@
 Board;WhiteNr;WhiteFideId;WhiteName;WhiteElo;WhitePoints;Result;BlackPoints;BlackElo;BlackName;BlackFideId;BlackNr
-1;3;9041780;"Mau-Asam, Léon";1980;5.0;*;4.5;1965;"Hettfleisch, Maurice";8255940;4
-2;5;8824277;"Kumar, Dhruv";1916;4.5;*;4.0;1258;"Asthana, Aarush";9136600;30
-3;1;7261771;"Kraan, Richard";2141;4.0;*;4.0;1753;"Narasimhan, Lakshay";9066761;12
-4;54;7545890;"Van Dijken, Bert";0;3.5;*;4.0;1905;"Bolle, Leo";8979707;6
-5;11;8983447;"Borremans, Adrie";1753;3.5;*;3.5;2026;"De Korver, Peter";6262465;2
-6;46;;"Boxebeld, Paul";0;3.5;*;3.5;1725;"Mes, Hans";8886669;50
-7;25;9100509;"De Korver, Lennard";1520;3.5;*;3.5;1865;"De Freytas, Paul";7393705;7
-8;51;9190610;"Moerenhout, Matthijs";0;3.0;*;3.0;1816;"Ramcharan, Aileshwar";9096153;9
-9;49;8946179;"Kuhling, Yvo";1683;3.0;*;3.0;1742;"Verschoor, Marcel";7290107;14
-10;16;9034861;"Dudink, Martijn";1729;3.0;*;3.0;0;"Van de Pol, Johan";9189389;58
-11;62;9174429;"Von Mansberg, Paul";1683;3.0;*;3.0;1648;"Anand, Saket Ram";9078223;20
-12;19;8979190;"Groenewegen, Max";1649;3.0;*;3.0;1413;"Steenbergh, Sebastiaan";9080852;27
-13;56;;"Van den Heuvel, Mart";0;3.0;*;3.0;1789;"Wagner, André";7460365;10
-14;21;9136589;"Asthana, Reyansh";1616;3.0;*;3.0;1651;"Jin, Hongyi";9069291;18
-15;23;8985350;"Grguric, Kaya";1542;2.5;*;2.5;1599;"Hermsen, Jan";9127965;47
-16;15;9177465;"Guitierrez Fernandez, José";1731;2.5;*;2.5;1742;"Hogenboom, Esther";8571442;13
-17;61;;"Verlinden, Robbie";0;2.0;*;2.5;1550;"Kricha, Alano";9101939;48
-18;33;9122080;"Borsboom, Matthias";1146;2.0;*;2.0;1705;"Bons, Maurits";7659916;17
-19;52;9178796;"Rutten, Tim";1211;2.0;*;2.0;1109;"Basu, Ankur Kumar";9170579;35
-20;43;;"Al Patty, Farid";0;2.0;*;2.0;0;"Yi, Lin Han";;63
-21;37;9126304;"Van den Berg, Sylvia";1022;2.0;*;2.0;1424;"Kievit, Jaap";9169974;26
-22;29;9067289;"Jerald, Rafael";1350;2.0;*;2.0;0;"Verhagen, Huub";;60
-23;45;;"Berkhout, Ruud";0;2.0;*;2.0;0;"Sotska, Mark";9180369;53
-24;42;;"Aljadou, Helmi";0;2.0;*;2.0;1817;"Hofland, Jeffrey";8084417;8
-25;55;;"Van Ouwerkerk, Christiaan";0;1.5;*;1.5;1196;"De Moulin, Marvin";9086033;32
-26;38;;"Wiegel, Jelmer";1000;1.0;*;1.0;1073;"Gupta, Swayam";9168973;36
-27;44;;"Aybek, Emre";0;1.0;*;1.0;1382;"Borsboom, Frederik";9122069;28
-28;31;8957454;"Van den Heuvel, Milan";1210;1.0;*;1.0;777;"Hogenboom, Monique";8861710;40
-29;34;9180545;"Selvakumar, Vidhulan";1132;1.0;*;1.0;0;"Van der Weg, Salim";;59
-30;39;9127294;"Van den Berg, Chris";951;0.0;*;0.0;479;"Honda, Natu";9150537;41
+1;3;9041780;"Mau-Asam, Léon";1980;5.0;1-0;4.5;1965;"Hettfleisch, Maurice";8255940;4
+2;5;8824277;"Kumar, Dhruv";1916;4.5;1-0;4.0;1258;"Asthana, Aarush";9136600;30
+3;1;7261771;"Kraan, Richard";2141;4.0;1-0;4.0;1753;"Narasimhan, Lakshay";9066761;12
+4;54;7545890;"Van Dijken, Bert";0;3.5;0-1;4.0;1905;"Bolle, Leo";8979707;6
+5;11;8983447;"Borremans, Adrie";1753;3.5;0-1;3.5;2026;"De Korver, Peter";6262465;2
+6;46;;"Boxebeld, Paul";0;3.5;1-0;3.5;1725;"Mes, Hans";8886669;50
+7;25;9100509;"De Korver, Lennard";1520;3.5;0-1;3.5;1865;"De Freytas, Paul";7393705;7
+8;51;9190610;"Moerenhout, Matthijs";0;3.0;0-1;3.0;1816;"Ramcharan, Aileshwar";9096153;9
+9;49;8946179;"Kuhling, Yvo";1683;3.0;1/2-1/2;3.0;1742;"Verschoor, Marcel";7290107;14
+10;16;9034861;"Dudink, Martijn";1729;3.0;1/2-1/2;3.0;0;"Van de Pol, Johan";9189389;58
+11;62;9174429;"Von Mansberg, Paul";1683;3.0;1-0;3.0;1648;"Anand, Saket Ram";9078223;20
+12;19;8979190;"Groenewegen, Max";1649;3.0;1-0;3.0;1413;"Steenbergh, Sebastiaan";9080852;27
+13;56;;"Van den Heuvel, Mart";0;3.0;0-1;3.0;1789;"Wagner, André";7460365;10
+14;21;9136589;"Asthana, Reyansh";1616;3.0;0-1;3.0;1651;"Jin, Hongyi";9069291;18
+15;23;8985350;"Grguric, Kaya";1542;2.5;1-0;1.5;1599;"Hermsen, Jan";9127965;47
+16;15;9177465;"Guitierrez Fernandez, José";1731;2.5;1-0;2.5;1742;"Hogenboom, Esther";8571442;13
+17;61;;"Verlinden, Robbie";0;2.0;0-1;2.5;1550;"Kricha, Alano";9101939;48
+18;33;9122080;"Borsboom, Matthias";1146;2.0;0-1;2.0;1705;"Bons, Maurits";7659916;17
+19;52;9178796;"Rutten, Tim";1211;2.0;0-1;2.0;1109;"Basu, Ankur Kumar";9170579;35
+20;43;;"Al Patty, Farid";0;2.0;1-0;2.0;0;"Yi, Lin Han";;63
+21;37;9126304;"Van den Berg, Sylvia";1022;2.0;0-1;2.0;1424;"Kievit, Jaap";9169974;26
+22;29;9067289;"Jerald, Rafael";1350;2.0;1-0;2.0;0;"Verhagen, Huub";;60
+23;45;;"Berkhout, Ruud";0;2.0;1-0;2.0;0;"Sotska, Mark";9180369;53
+24;42;;"Aljadou, Helmi";0;2.0;0-1;2.0;1817;"Hofland, Jeffrey";8084417;8
+25;55;;"Van Ouwerkerk, Christiaan";0;2.5;1-0;1.5;1196;"De Moulin, Marvin";9086033;32
+26;38;;"Wiegel, Jelmer";1000;1.0;1-0;1.0;1073;"Gupta, Swayam";9168973;36
+27;44;;"Aybek, Emre";0;1.0;1/2-1/2;1.0;1382;"Borsboom, Frederik";9122069;28
+28;31;8957454;"Van den Heuvel, Milan";1210;1.0;1-0;1.0;777;"Hogenboom, Monique";8861710;40
+29;34;9180545;"Selvakumar, Vidhulan";1132;1.0;1-0;1.0;0;"Van der Weg, Salim";;59
+30;39;9127294;"Van den Berg, Chris";951;0.0;1-0;0.0;479;"Honda, Natu";9150537;41
 -;22;8933540;"Van Dijk, Ruud";1591;0.0;0;;;bye
 -;24;9018944;"Ududenko, Michael";1526;0.0;0;;;bye
 -;57;;"Van de Pol, Johan";0;1.0;0;;;bye

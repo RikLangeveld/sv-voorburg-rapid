@@ -19,7 +19,7 @@ Board;WhiteNr;WhiteFideId;WhiteName;WhiteElo;WhitePoints;Result;BlackPoints;Blac
 18;26;9169974;"Kievit, Jaap";1424;2.0;0-1;2.0;1742;"Verschoor, Marcel";7290107;14
 19;35;9170579;"Basu, Ankur Kumar";1109;2.0;0-1;2.0;1729;"Dudink, Martijn";9034861;16
 20;60;;"Verhagen, Huub";0;2.0;0-1;2.0;0;"Van den Heuvel, Mart";;56
-21;47;9127965;"Hermsen, Jan";1599;1.5;1-0;1.5;0;"Van Ouwerkerk, Christiaan";;55
+21;47;9127965;"Hermsen, Jan";1599;1.5;0-1;1.5;0;"Van Ouwerkerk, Christiaan";;55
 22;13;8571442;"Hogenboom, Esther";1742;1.5;1-0;1.5;1196;"De Moulin, Marvin";9086033;32
 23;28;9122069;"Borsboom, Frederik";1382;1.0;0-1;1.0;1211;"Rutten, Tim";9178796;52
 24;36;9168973;"Gupta, Swayam";1073;1.0;0-1;1.0;0;"Verlinden, Robbie";;61
