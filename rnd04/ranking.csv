@@ -1,64 +1,64 @@
 Rank;Name;Flags;Score;Federation;Gender;Rating;TPR;W-We
-1;"Mau-Asam, Léon";;3.0;NED;M;1980;2332;+0.48
-2;"Hettfleisch, Maurice";;3.0;NED;M;1965;2293;+0.42
-3;"Bolle, Leo";;3.0;NED;M;1905;2361;+0.97
-4;"De Freytas, Paul";;3.0;NED;M;1865;2504;+0.79
-5;"Kumar, Dhruv";;2.5;NED;M;1916;2049;+0.16
-6;"Ramcharan, Aileshwar";;2.5;NED;M;1816;1577;+0.08
-7;"Borremans, Adrie";;2.5;NED;M;1753;0;+0.00
-8;"Mes, Hans";;2.5;NED;M;0;1921;+1.50
-9;"Van Dijken, Bert";;2.5;NED;M;0;1391;+1.00
-10;"Kraan, Richard";;2.0;NED;M;2141;1756;-0.64
-11;"De Korver, Peter";;2.0;NED;M;2026;1718;-0.50
-12;"Hofland, Jeffrey";;2.0;NED;M;1817;1552;-0.12
-13;"Wagner, André";;2.0;NED;M;1789;0;+0.00
-14;"Narasimhan, Lakshay";;2.0;NED;M;1753;1165;-0.23
-15;"Verschoor, Marcel";;2.0;NED;M;1742;1715;+0.16
-16;"Guitierrez Fernandez, José";;2.0;NED;M;1731;1641;+0.08
-17;"Bons, Maurits";;2.0;NED;M;1705;1568;-0.05
-18;"Jin, Hongyi";;2.0;NED;M;1651;0;+0.00
-19;"Groenewegen, Max";;2.0;NED;M;1649;0;+0.00
-20;"Anand, Saket Ram";;2.0;NED;M;1648;1180;-0.12
-21;"De Korver, Lennard";;2.0;NED;M;1520;1105;-0.09
-22;"Kievit, Jaap";;2.0;NED;M;1424;1116;-0.08
-23;"Steenbergh, Sebastiaan";;2.0;NED;M;1413;1946;+0.18
-24;"Asthana, Aarush";;2.0;NED;M;1258;1814;+1.25
-25;"Kuhling, Yvo";;2.0;NED;M;0;1852;+1.00
-26;"Moerenhout, Matthijs";;2.0;NED;M;0;1493;+1.00
-27;"Van den Heuvel, Mart";;2.0;NED;M;0 *;1779;+0.50
-28;"Van der Pol, Johan";;2.0;PNG;M;0 *;1511;+1.00
-29;"Hogenboom, Esther";;1.5;NED;F;1742;1946;+0.08
-30;"Grguric, Kaya";;1.5;NED;M;1542;0;+0.00
-31;"Boxebeld, Paul";;1.5;NED;M;0 *;1770;1770
-32;"Kricha, Alano";;1.5;NED;M;0 *;742;0
-33;"Van Ouwerkerk, Christiaan";;1.5;NED;M;0 *;1542;0
-34;"Dudink, Martijn";;1.0;NED;M;1729;458;-0.92
-35;"Asthana, Reyansh";;1.0;NED;M;1616;1165;-0.11
-36;"Borsboom, Frederik";;1.0;NED;M;1382;1065;-0.08
-37;"Jerald, Rafael";;1.0;NED;M;1350;980;-0.16
-38;"Van den Heuvel, Milan";;1.0;NED;M;1210;1079;-0.16
-39;"De Moulin, Marvin";;1.0;NED;M;1196;1130;-0.41
-40;"Selvakumar, Vidhulan";;1.0;NED;M;1132;1230;+0.00
-41;"Basu, Ankur Kumar";;1.0;NED;M;1109;1035;-0.16
-42;"Gupta, Swayam";;1.0;NED;M;1073;1116;-0.08
-43;"Aljadou, Helmi";;1.0;NED;M;0 *;1418;1418
-44;"Alpatty, Farid";;1.0;NED;M;0 *;1690;0
-45;"Berkhout, Ruud";;1.0;NEE;M;0 *;1350;1350
-46;"Hermsen, Jan";;1.0;NED;M;0;1370;1370
-47;"Rutten, Tim";;1.0;NED;M;0;613;0
-48;"Sotska, Mark";;1.0;NED;M;0;1030;0
-49;"Van der Pol, Johan";;1.0;   ;M;0 *;0;0
-50;"Van der Weg, Salim";;1.0;   ;M;0 *;736;0
-51;"Verhagen, Huub";;1.0;NED;M;0 *;1437;1437
-52;"Verlinden, Robbie";;1.0;NED;M;0 *;1069;1069
-53;"Von Mansberg, Paul";;1.0;NED;M;0;1789;0
-54;"Yi, Lin Han";;1.0;NED;F;0 *;1113;1113
-55;"Van Dijk, Ruud";;0.0;NED;M;1591;0;+0.00
-56;"Ududenko, Michael";;0.0;NED;M;1526;0;+0.00
-57;"Borsboom, Matthias";;0.0;NED;M;1146;778;-0.26
-58;"Van den Berg, Sylvia";;0.0;NED;F;1022;1105;-0.08
-59;"Wiegel, Jelmer";;0.0;NED;M;1000 *;1065;0
-60;"Van den Berg, Chris";;0.0;NED;M;951;1017;-0.08
-61;"Hogenboom, Monique";;0.0;NED;F;777;706;-0.16
-62;"Honda, Natu";;0.0;NED;M;479;637;-0.16
-63;"Aybek, Emre";;0.0;NED;M;0 *;704; 704
+1;"Mau-Asam, Léon";;4.0;NED;M;1980;2426;+0.88
+2;"Hettfleisch, Maurice";;3.5;NED;M;1965;1922;+0.28
+3;"Kumar, Dhruv";;3.5;NED;M;1916;2238;+0.52
+4;"De Freytas, Paul";;3.5;NED;M;1865;2064;+0.93
+5;"Borremans, Adrie";;3.5;NED;M;1753;1725;-0.04
+6;"Mes, Hans";;3.5;NED;M;1725;1925;+0.84
+7;"Kraan, Richard";;3.0;NED;M;2141;1756;-0.64
+8;"De Korver, Peter";;3.0;NED;M;2026;1824;-0.34
+9;"Bolle, Leo";;3.0;NED;M;1905;1859;+0.57
+10;"Narasimhan, Lakshay";;3.0;NED;M;1753;1835;+0.20
+11;"Kuhling, Yvo";;3.0;NED;M;1683;1943;+1.36
+12;"Jin, Hongyi";;3.0;NED;M;1651;1666;+0.04
+13;"De Korver, Lennard";;3.0;NED;M;1520;1847;+0.74
+14;"Asthana, Aarush";;3.0;NED;M;1258;1814;+1.25
+15;"Moerenhout, Matthijs";;3.0;NED;M;0;1575;+1.00
+16;"Ramcharan, Aileshwar";;2.5;NED;M;1816;1347;-0.28
+17;"Guitierrez Fernandez, José";;2.5;NED;M;1731;1644;-0.03
+18;"Groenewegen, Max";;2.5;NED;M;1649;1685;+0.14
+19;"Grguric, Kaya";;2.5;NED;M;1542;1734;+0.50
+20;"Boxebeld, Paul";;2.5;NED;M;0 *;1770;1770
+21;"Kricha, Alano";;2.5;NED;M;0 *;1479;1479
+22;"Van Dijken, Bert";;2.5;NED;M;0;1383;1383
+23;"Hofland, Jeffrey";;2.0;NED;M;1817;1491;-0.80
+24;"Wagner, André";;2.0;NED;M;1789;1504;-1.11
+25;"Verschoor, Marcel";;2.0;NED;M;1742;1410;+0.00
+26;"Dudink, Martijn";;2.0;NED;M;1729;1166;-0.84
+27;"Bons, Maurits";;2.0;NED;M;1705;1622;-0.12
+28;"Von Mansberg, Paul";;2.0;NED;M;1683;1789;+0.14
+29;"Anand, Saket Ram";;2.0;NED;M;1648;1016;-0.62
+30;"Asthana, Reyansh";;2.0;NED;M;1616;1588;-0.03
+31;"Kievit, Jaap";;2.0;NED;M;1424;1116;-0.08
+32;"Steenbergh, Sebastiaan";;2.0;NED;M;1413;1436;+0.04
+33;"Jerald, Rafael";;2.0;NED;M;1350;1439;+0.06
+34;"Basu, Ankur Kumar";;2.0;NED;M;1109;1035;-0.16
+35;"Aljadou, Helmi";;2.0;NED;M;0 *;1503;1503
+36;"Al Patty, Farid";;2.0;NED;M;0 *;1690;0
+37;"Berkhout, Ruud";;2.0;NEE;M;0 *;1409;1409
+38;"Van den Heuvel, Mart";;2.0;NED;M;0 *;1480;1480
+39;"Van de Pol, Johan";;2.0;PNG;M;0 *;1575;1575
+40;"Verhagen, Huub";;2.0;NED;M;0 *;1409;1409
+41;"Hogenboom, Esther";;1.5;NED;F;1742;1457;-0.76
+42;"Hermsen, Jan";;1.5;NED;M;1599;1334;-1.13
+43;"De Moulin, Marvin";;1.5;NED;M;1196;1254;+0.01
+44;"Van Ouwerkerk, Christiaan";;1.5;NED;M;0 *;1806;0
+45;"Borsboom, Frederik";;1.0;NED;M;1382;1065;-0.08
+46;"Rutten, Tim";;1.0;NED;M;1211;613;-0.58
+47;"Van den Heuvel, Milan";;1.0;NED;M;1210;1531;+0.34
+48;"Borsboom, Matthias";;1.0;NED;M;1146;1086;-0.18
+49;"Selvakumar, Vidhulan";;1.0;NED;M;1132;1159;-0.30
+50;"Gupta, Swayam";;1.0;NED;M;1073;1023;-0.16
+51;"Van den Berg, Sylvia";;1.0;NED;F;1022;1341;+0.12
+52;"Aybek, Emre";;1.0;NED;M;0 *;704; 704
+53;"Sotska, Mark";;1.0;NED;M;0;1123;1123
+54;"Van de Pol, Johan";;1.0;   ;M;0 *;0;0
+55;"Van der Weg, Salim";;1.0;   ;M;0 *;736;0
+56;"Verlinden, Robbie";;1.0;NED;M;0 *;980; 980
+57;"Yi, Lin Han";;1.0;NED;F;0 *;1140;1140
+58;"Van Dijk, Ruud";;0.0;NED;M;1591;0;+0.00
+59;"Ududenko, Michael";;0.0;NED;M;1526;0;+0.00
+60;"Wiegel, Jelmer";;0.0;NED;M;1000 *;738;0
+61;"Van den Berg, Chris";;0.0;NED;M;951;1017;-0.08
+62;"Hogenboom, Monique";;0.0;NED;F;777;545;-0.36
+63;"Honda, Natu";;0.0;NED;M;479;540;-0.24

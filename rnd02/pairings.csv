@@ -8,12 +8,12 @@ Board;WhiteNr;WhiteFideId;WhiteName;WhiteElo;WhitePoints;Result;BlackPoints;Blac
 7;7;7393705;"De Freytas, Paul";1865;1.0;1-0;1.0;1382;"Borsboom, Frederik";9122069;28
 8;29;9067289;"Jerald, Rafael";1350;1.0;0-1;1.0;1817;"Hofland, Jeffrey";8084417;8
 9;9;9096153;"Ramcharan, Aileshwar";1816;1.0;1/2-1/2;1.0;0;"Boxebeld, Paul";;46
-10;43;;"Alpatty, Farid";0;1.0;0-1;1.0;0;"Van Dijken, Bert";7545890;54
-11;11;8983447;"Borremans, Adrie";1753;1.0;1/2-1/2;1.0;0;"Mes, Hans";8886669;50
-12;49;8946179;"Kuhling, Yvo";0;1.0;1/2-1/2;1.0;1789;"Wagner, André";7460365;10
+10;43;;"Al Patty, Farid";0;1.0;0-1;1.0;0;"Van Dijken, Bert";7545890;54
+11;11;8983447;"Borremans, Adrie";1753;1.0;1/2-1/2;1.0;1725;"Mes, Hans";8886669;50
+12;49;8946179;"Kuhling, Yvo";1683;1.0;1/2-1/2;1.0;1789;"Wagner, André";7460365;10
 13;12;9066761;"Narasimhan, Lakshay";1753;1.0;1-0;1.0;0;"Verhagen, Huub";;60
 14;56;;"Van den Heuvel, Mart";0;1.0;1-0;1.0;1742;"Hogenboom, Esther";8571442;13
-15;62;9174429;"Von Mansberg, Paul";0;0.5;0-1;0.5;0;"Van Ouwerkerk, Christiaan";;55
+15;62;9174429;"Von Mansberg, Paul";1683;0.5;0-1;0.5;0;"Van Ouwerkerk, Christiaan";;55
 16;23;8985350;"Grguric, Kaya";1542;0.5;1-0;0.5;0;"Kricha, Alano";;48
 17;14;7290107;"Verschoor, Marcel";1742;0.0;1-0;0.0;479;"Honda, Natu";9150537;41
 18;16;9034861;"Dudink, Martijn";1729;0.0;1-0;0.0;0;"Aljadou, Helmi";;42
@@ -21,14 +21,14 @@ Board;WhiteNr;WhiteFideId;WhiteName;WhiteElo;WhitePoints;Result;BlackPoints;Blac
 20;19;8979190;"Groenewegen, Max";1649;0.0;1-0;0.0;0;"Berkhout, Ruud";;45
 21;27;9080852;"Steenbergh, Sebastiaan";1413;0.0;1-0;0.0;1146;"Borsboom, Matthias";9122080;33
 22;32;9086033;"De Moulin, Marvin";1196;0.0;0-1;0.0;1258;"Asthana, Aarush";9136600;30
-23;31;8957454;"Van den Heuvel, Milan";1210;0.0;1-0;0.0;0;"Rutten, Tim";9178796;52
-24;47;9127965;"Hermsen, Jan";0;0.0;1-0;0.0;1132;"Selvakumar, Vidhulan";9180545;34
+23;31;8957454;"Van den Heuvel, Milan";1210;0.0;1-0;0.0;1211;"Rutten, Tim";9178796;52
+24;47;9127965;"Hermsen, Jan";1599;0.0;1-0;0.0;1132;"Selvakumar, Vidhulan";9180545;34
 25;35;9170579;"Basu, Ankur Kumar";1109;0.0;1-0;0.0;0;"Sotska, Mark";9180369;53
 26;51;9190610;"Moerenhout, Matthijs";0;0.0;1-0;0.0;1073;"Gupta, Swayam";9168973;36
-27;37;9126304;"Van den Berg, Sylvia";1022;0.0;0-1;0.0;0;"Van der Pol, Johan";9189389;58
+27;37;9126304;"Van den Berg, Sylvia";1022;0.0;0-1;0.0;0;"Van de Pol, Johan";9189389;58
 28;59;;"Van der Weg, Salim";0;0.0;1-0;0.0;1000;"Wiegel, Jelmer";;38
 29;39;9127294;"Van den Berg, Chris";951;0.0;0-1;0.0;0;"Yi, Lin Han";;63
 30;61;;"Verlinden, Robbie";0;0.0;1-0;0.0;777;"Hogenboom, Monique";8861710;40
 -;22;8933540;"Van Dijk, Ruud";1591;0.0;0;;;bye
 -;24;9018944;"Ududenko, Michael";1526;0.0;0;;;bye
--;57;;"Van der Pol, Johan";0;1.0;0;;;bye
+-;57;;"Van de Pol, Johan";0;1.0;0;;;bye

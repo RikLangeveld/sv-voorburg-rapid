@@ -14,21 +14,21 @@ Board;WhiteNr;WhiteFideId;WhiteName;WhiteElo;WhitePoints;Result;BlackPoints;Blac
 13;13;8571442;"Hogenboom, Esther";1742;0.0;1-0;0.0;1146;"Borsboom, Matthias";9122080;33
 14;46;;"Boxebeld, Paul";0;0.0;1-0;0.0;1742;"Verschoor, Marcel";7290107;14
 15;15;9177465;"Guitierrez Fernandez, José";1731;0.0;1-0;0.0;1196;"De Moulin, Marvin";9086033;32
-16;43;;"Alpatty, Farid";0;0.0;1-0;0.0;1729;"Dudink, Martijn";9034861;16
-17;17;7659916;"Bons, Maurits";1705;0.0;1-0;0.0;0;"Hermsen, Jan";9127965;47
-18;18;9069291;"Jin, Hongyi";1651;0.0;0-1;0.0;0;"Kuhling, Yvo";8946179;49
-19;50;8886669;"Mes, Hans";0;0.0;1-0;0.0;1649;"Groenewegen, Max";8979190;19
+16;43;;"Al Patty, Farid";0;0.0;1-0;0.0;1729;"Dudink, Martijn";9034861;16
+17;17;7659916;"Bons, Maurits";1705;0.0;1-0;0.0;1599;"Hermsen, Jan";9127965;47
+18;18;9069291;"Jin, Hongyi";1651;0.0;0-1;0.0;1683;"Kuhling, Yvo";8946179;49
+19;50;8886669;"Mes, Hans";1725;0.0;1-0;0.0;1649;"Groenewegen, Max";8979190;19
 20;20;9078223;"Anand, Saket Ram";1648;0.0;1-0;0.0;0;"Moerenhout, Matthijs";9190610;51
-21;52;9178796;"Rutten, Tim";0;0.0;0-1;0.0;1616;"Asthana, Reyansh";9136589;21
+21;52;9178796;"Rutten, Tim";1211;0.0;0-1;0.0;1616;"Asthana, Reyansh";9136589;21
 22;53;9180369;"Sotska, Mark";0;0.0;0-1;0.0;0;"Van den Heuvel, Mart";;56
 23;55;;"Van Ouwerkerk, Christiaan";0;0.0;1/2-1/2;0.0;1542;"Grguric, Kaya";8985350;23
-25;58;9189389;"Van der Pol, Johan";0;0.0;0-1;0.0;1520;"De Korver, Lennard";9100509;25
+25;58;9189389;"Van de Pol, Johan";0;0.0;0-1;0.0;1520;"De Korver, Lennard";9100509;25
 26;26;9169974;"Kievit, Jaap";1424;0.0;1-0;0.0;0;"Van der Weg, Salim";;59
 27;60;;"Verhagen, Huub";0;0.0;1-0;0.0;1413;"Steenbergh, Sebastiaan";9080852;27
 28;28;9122069;"Borsboom, Frederik";1382;0.0;1-0;0.0;0;"Verlinden, Robbie";;61
 29;63;;"Yi, Lin Han";0;0.0;0-1;0.0;1350;"Jerald, Rafael";9067289;29
 30;54;7545890;"Van Dijken, Bert";0;0.0;1-0;0.0;479;"Honda, Natu";9150537;41
-31;48;;"Kricha, Alano";0;0.0;1/2-1/2;0.0;0;"Von Mansberg, Paul";9174429;62
+31;48;;"Kricha, Alano";0;0.0;1/2-1/2;0.0;1683;"Von Mansberg, Paul";9174429;62
 -;22;8933540;"Van Dijk, Ruud";1591;0.0;0;;;bye
 -;24;9018944;"Ududenko, Michael";1526;0.0;0;;;bye
--;57;;"Van der Pol, Johan";0;0.0;1;;;pairing allocated bye
+-;57;;"Van de Pol, Johan";0;0.0;1;;;pairing allocated bye
