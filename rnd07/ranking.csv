@@ -1,64 +1,64 @@
 Rank;Name;Flags;Score;Federation;Gender;Rating;TPR;W-We
-1;"Mau-Asam, Léon";;6.0;NED;M;1980;2522;+1.70
-2;"Kumar, Dhruv";;5.5;NED;M;1916;2259;+0.85
-3;"Kraan, Richard";;5.0;NED;M;2141;1855;-0.55
-4;"Bolle, Leo";;5.0;NED;M;1905;1859;+0.57
-5;"De Korver, Peter";;4.5;NED;M;2026;1826;-0.59
-6;"Hettfleisch, Maurice";;4.5;NED;M;1965;1872;+0.03
-7;"De Freytas, Paul";;4.5;NED;M;1865;1924;+0.70
-8;"Boxebeld, Paul";;4.5;NED;M;0 *;1902;+1.50
-9;"Ramcharan, Aileshwar";;4.0;NED;M;1816;1447;-0.50
-10;"Wagner, André";;4.0;NED;M;1789;1504;-1.11
-11;"Narasimhan, Lakshay";;4.0;NED;M;1753;1866;+0.47
-12;"Von Mansberg, Paul";;4.0;NED;M;1683;1987;+1.12
-13;"Jin, Hongyi";;4.0;NED;M;1651;1675;+0.13
-14;"Groenewegen, Max";;4.0;NED;M;1649;1729;+0.56
-15;"Asthana, Aarush";;4.0;NED;M;1258;1805;+2.09
-16;"Borremans, Adrie";;3.5;NED;M;1753;1632;-0.44
-17;"Verschoor, Marcel";;3.5;NED;M;1742;1541;+0.05
-18;"Guitierrez Fernandez, José";;3.5;NED;M;1731;1737;+0.49
-19;"Dudink, Martijn";;3.5;NED;M;1729;1272;-0.76
-20;"Mes, Hans";;3.5;NED;M;1725;1804;+0.59
-21;"Kuhling, Yvo";;3.5;NED;M;1683;1724;+0.52
-22;"Kricha, Alano";;3.5;NED;M;1550 *;1557;1557
-23;"Grguric, Kaya";;3.5;NED;M;1542;1814;+1.08
-24;"De Korver, Lennard";;3.5;NED;M;1520;1809;+1.05
-25;"Van Dijken, Bert";;3.5;NED;M;0;1519;1519
-26;"Van Ouwerkerk, Christiaan";;3.5;NED;M;0 *;1841;+2.00
-27;"Van de Pol, Johan";;3.5;PNG;M;0 *;1606;1606
-28;"Hofland, Jeffrey";;3.0;NED;M;1817;1403;-1.72
-29;"Bons, Maurits";;3.0;NED;M;1705;1553;-0.57
-30;"Anand, Saket Ram";;3.0;NED;M;1648;1473;-0.92
-31;"Asthana, Reyansh";;3.0;NED;M;1616;1484;-0.48
-32;"Kievit, Jaap";;3.0;NED;M;1424;1435;-0.13
-33;"Steenbergh, Sebastiaan";;3.0;NED;M;1413;1584;+0.76
-34;"Jerald, Rafael";;3.0;NED;M;1350;1392;-0.09
-35;"Basu, Ankur Kumar";;3.0;NED;M;1109;1460;+0.40
-36;"Al Patty, Farid";;3.0;NED;M;0 *;1540;1540
-37;"Berkhout, Ruud";;3.0;NEE;M;0 *;1413;1413
-38;"Moerenhout, Matthijs";;3.0;NED;M;0;1541;+0.50
-39;"Van den Heuvel, Mart";;3.0;NED;M;0 *;1458;1458
-40;"Hogenboom, Esther";;2.5;NED;F;1742;1460;-1.20
-41;"Rutten, Tim";;2.0;NED;M;1211;1136;-0.49
-42;"Van den Heuvel, Milan";;2.0;NED;M;1210;1306;-0.17
-43;"Borsboom, Matthias";;2.0;NED;M;1146;1238;+0.33
-44;"Selvakumar, Vidhulan";;2.0;NED;M;1132;1159;-0.30
-45;"Van den Berg, Sylvia";;2.0;NED;F;1022;1244;+0.04
-46;"Wiegel, Jelmer";;2.0;NED;M;1000 *;1275;1275
-47;"Aljadou, Helmi";;2.0;NED;M;0 *;1493;1493
-48;"Sotska, Mark";;2.0;NED;M;0;1123;1123
-49;"Verhagen, Huub";;2.0;NED;M;0 *;1325;1325
-50;"Verlinden, Robbie";;2.0;NED;M;0 *;1081;1081
-51;"Yi, Lin Han";;2.0;NED;F;0 *;1220;1220
-52;"Hermsen, Jan";;1.5;NED;M;1599;1296;-1.71
-53;"Borsboom, Frederik";;1.5;NED;M;1382;738;-0.81
-54;"De Moulin, Marvin";;1.5;NED;M;1196;1272;-0.07
-55;"Aybek, Emre";;1.5;NED;M;0 *;1152;1152
-56;"Gupta, Swayam";;1.0;NED;M;1073;1023;-0.16
-57;"Van den Berg, Chris";;1.0;NED;M;951;1148;+0.00
-58;"Hogenboom, Monique";;1.0;NED;F;777;905;-0.29
-59;"Van de Pol, Johan";;1.0;   ;M;0 *;0;0
-60;"Van der Weg, Salim";;1.0;   ;M;0 *;507; 507
+1;"Mau-Asam, Léon";;6.5;NED;M;1980;2172;+1.61
+2;"Kraan, Richard";;6.0;NED;M;2141;1975;-0.21
+3;"Kumar, Dhruv";;6.0;NED;M;1916;1947;+0.94
+4;"Hettfleisch, Maurice";;5.5;NED;M;1965;1872;+0.03
+5;"De Freytas, Paul";;5.5;NED;M;1865;1989;+1.26
+6;"Bolle, Leo";;5.0;NED;M;1905;1778;+0.01
+7;"Narasimhan, Lakshay";;5.0;NED;M;1753;1894;+0.83
+8;"Von Mansberg, Paul";;5.0;NED;M;1683;2034;+1.58
+9;"De Korver, Peter";;4.5;NED;M;2026;1807;-0.93
+10;"Ramcharan, Aileshwar";;4.5;NED;M;1816;1533;-0.54
+11;"Wagner, André";;4.5;NED;M;1789;1589;-1.07
+12;"Verschoor, Marcel";;4.5;NED;M;1742;1646;+0.57
+13;"Mes, Hans";;4.5;NED;M;1725;1860;+1.10
+14;"Asthana, Aarush";;4.5;NED;M;1258;1758;+2.43
+15;"Boxebeld, Paul";;4.5;NED;M;0 *;1846;+0.50
+16;"Van Dijken, Bert";;4.5;NED;M;0;1519;1519
+17;"Van Ouwerkerk, Christiaan";;4.5;NED;M;0 *;1907;+2.00
+18;"Guitierrez Fernandez, José";;4.0;NED;M;1731;1737;+0.49
+19;"Bons, Maurits";;4.0;NED;M;1705;1574;-0.46
+20;"Jin, Hongyi";;4.0;NED;M;1651;1605;-0.33
+21;"Groenewegen, Max";;4.0;NED;M;1649;1673;+0.20
+22;"Kricha, Alano";;4.0;NED;M;1550 *;1590;1590
+23;"Grguric, Kaya";;4.0;NED;M;1542;1676;+0.74
+24;"De Korver, Lennard";;4.0;NED;M;1520;1728;+0.90
+25;"Al Patty, Farid";;4.0;NED;M;0 *;1661;1661
+26;"Berkhout, Ruud";;4.0;NEE;M;0 *;1422;1422
+27;"Moerenhout, Matthijs";;4.0;NED;M;0;1631;+0.50
+28;"Borremans, Adrie";;3.5;NED;M;1753;1543;-0.96
+29;"Dudink, Martijn";;3.5;NED;M;1729;1291;-1.27
+30;"Kuhling, Yvo";;3.5;NED;M;1683;1724;+0.52
+31;"Asthana, Reyansh";;3.5;NED;M;1616;1555;-0.31
+32;"Kievit, Jaap";;3.5;NED;M;1424;1435;-0.13
+33;"Steenbergh, Sebastiaan";;3.5;NED;M;1413;1571;+0.91
+34;"Van den Heuvel, Mart";;3.5;NED;M;0 *;1457;1457
+35;"Van de Pol, Johan";;3.5;PNG;M;0 *;1606;1606
+36;"Hofland, Jeffrey";;3.0;NED;M;1817;1403;-1.72
+37;"Hogenboom, Esther";;3.0;NED;F;1742;1486;-1.37
+38;"Anand, Saket Ram";;3.0;NED;M;1648;1473;-0.92
+39;"Jerald, Rafael";;3.0;NED;M;1350;1369;-0.20
+40;"Rutten, Tim";;3.0;NED;M;1211;1136;-0.49
+41;"Selvakumar, Vidhulan";;3.0;NED;M;1132;1159;-0.30
+42;"Basu, Ankur Kumar";;3.0;NED;M;1109;1460;+0.40
+43;"Van den Berg, Sylvia";;3.0;NED;F;1022;1313;+0.71
+44;"Wiegel, Jelmer";;3.0;NED;M;1000 *;1275;1275
+45;"Aljadou, Helmi";;3.0;NED;M;0 *;1504;1504
+46;"Verlinden, Robbie";;3.0;NED;M;0 *;1163;1163
+47;"Borsboom, Frederik";;2.5;NED;M;1382;1217;-0.73
+48;"Aybek, Emre";;2.5;NED;M;0 *;1350;1350
+49;"Van den Heuvel, Milan";;2.0;NED;M;1210;1306;-0.17
+50;"Borsboom, Matthias";;2.0;NED;M;1146;1137;-0.34
+51;"Gupta, Swayam";;2.0;NED;M;1073;1250;-0.08
+52;"Sotska, Mark";;2.0;NED;M;0;1026;1026
+53;"Van der Weg, Salim";;2.0;   ;M;0 *;961; 961
+54;"Verhagen, Huub";;2.0;NED;M;0 *;1325;1325
+55;"Yi, Lin Han";;2.0;NED;F;0 *;1154;1154
+56;"Hermsen, Jan";;1.5;NED;M;1599;1296;-1.71
+57;"De Moulin, Marvin";;1.5;NED;M;1196;1272;-0.07
+58;"Van den Berg, Chris";;1.0;NED;M;951;1101;-0.08
+59;"Hogenboom, Monique";;1.0;NED;F;777;905;-0.29
+60;"Van de Pol, Johan";;1.0;   ;M;0 *;0;0
 61;"Van Dijk, Ruud";;0.0;NED;M;1591;0;+0.00
 62;"Ududenko, Michael";;0.0;NED;M;1526;0;+0.00
-63;"Honda, Natu";;0.0;NED;M;479;350;-0.47
+63;"Honda, Natu";;0.0;NED;M;479;337;-0.55
