@@ -10,12 +10,12 @@ Rank;Name;Flags;Score;Federation;Gender;Rating;TPR;W-We
 9;"De Korver, Peter";;4.5;NED;M;2026;1807;-0.93
 10;"Ramcharan, Aileshwar";;4.5;NED;M;1816;1533;-0.54
 11;"Wagner, André";;4.5;NED;M;1789;1589;-1.07
-12;"Verschoor, Marcel";;4.5;NED;M;1742;1646;+0.57
+12;"Borremans, Adrie";;4.5;NED;M;1753;1778;+0.04
 13;"Mes, Hans";;4.5;NED;M;1725;1860;+1.10
-14;"Asthana, Aarush";;4.5;NED;M;1258;1758;+2.43
-15;"Boxebeld, Paul";;4.5;NED;M;0 *;1846;+0.50
-16;"Van Dijken, Bert";;4.5;NED;M;0;1519;1519
-17;"Van Ouwerkerk, Christiaan";;4.5;NED;M;0 *;1907;+2.00
+14;"Kuhling, Yvo";;4.5;NED;M;1683;1724;+0.52
+15;"Asthana, Aarush";;4.5;NED;M;1258;1758;+2.43
+16;"Boxebeld, Paul";;4.5;NED;M;0 *;1846;+0.50
+17;"Van Dijken, Bert";;4.5;NED;M;0;1519;1519
 18;"Guitierrez Fernandez, José";;4.0;NED;M;1731;1737;+0.49
 19;"Bons, Maurits";;4.0;NED;M;1705;1574;-0.46
 20;"Jin, Hongyi";;4.0;NED;M;1651;1605;-0.33
@@ -24,16 +24,16 @@ Rank;Name;Flags;Score;Federation;Gender;Rating;TPR;W-We
 23;"Grguric, Kaya";;4.0;NED;M;1542;1676;+0.74
 24;"De Korver, Lennard";;4.0;NED;M;1520;1728;+0.90
 25;"Al Patty, Farid";;4.0;NED;M;0 *;1661;1661
-26;"Berkhout, Ruud";;4.0;NEE;M;0 *;1422;1422
+26;"Berkhout, Ruud";;4.0;NED;M;0 *;1422;1422
 27;"Moerenhout, Matthijs";;4.0;NED;M;0;1631;+0.50
-28;"Borremans, Adrie";;3.5;NED;M;1753;1543;-0.96
+28;"Verschoor, Marcel";;3.5;NED;M;1742;1510;-0.43
 29;"Dudink, Martijn";;3.5;NED;M;1729;1291;-1.27
-30;"Kuhling, Yvo";;3.5;NED;M;1683;1724;+0.52
-31;"Asthana, Reyansh";;3.5;NED;M;1616;1555;-0.31
-32;"Kievit, Jaap";;3.5;NED;M;1424;1435;-0.13
-33;"Steenbergh, Sebastiaan";;3.5;NED;M;1413;1571;+0.91
+30;"Asthana, Reyansh";;3.5;NED;M;1616;1555;-0.31
+31;"Kievit, Jaap";;3.5;NED;M;1424;1435;-0.13
+32;"Steenbergh, Sebastiaan";;3.5;NED;M;1413;1571;+0.91
+33;"Van Ouwerkerk, Christiaan";;3.5;NED;M;0 *;1690;+1.00
 34;"Van den Heuvel, Mart";;3.5;NED;M;0 *;1457;1457
-35;"Van de Pol, Johan";;3.5;PNG;M;0 *;1606;1606
+35;"Van de Pol, Johan";;3.5;NED;M;0 *;1606;1606
 36;"Hofland, Jeffrey";;3.0;NED;M;1817;1403;-1.72
 37;"Hogenboom, Esther";;3.0;NED;F;1742;1486;-1.37
 38;"Anand, Saket Ram";;3.0;NED;M;1648;1473;-0.92
@@ -51,14 +51,13 @@ Rank;Name;Flags;Score;Federation;Gender;Rating;TPR;W-We
 50;"Borsboom, Matthias";;2.0;NED;M;1146;1137;-0.34
 51;"Gupta, Swayam";;2.0;NED;M;1073;1250;-0.08
 52;"Sotska, Mark";;2.0;NED;M;0;1026;1026
-53;"Van der Weg, Salim";;2.0;   ;M;0 *;961; 961
+53;"Van der Weg, Salim";;2.0;NED;M;0 *;961; 961
 54;"Verhagen, Huub";;2.0;NED;M;0 *;1325;1325
 55;"Yi, Lin Han";;2.0;NED;F;0 *;1154;1154
 56;"Hermsen, Jan";;1.5;NED;M;1599;1296;-1.71
 57;"De Moulin, Marvin";;1.5;NED;M;1196;1272;-0.07
 58;"Van den Berg, Chris";;1.0;NED;M;951;1101;-0.08
 59;"Hogenboom, Monique";;1.0;NED;F;777;905;-0.29
-60;"Van de Pol, Johan";;1.0;   ;M;0 *;0;0
-61;"Van Dijk, Ruud";;0.0;NED;M;1591;0;+0.00
-62;"Ududenko, Michael";;0.0;NED;M;1526;0;+0.00
-63;"Honda, Natu";;0.0;NED;M;479;337;-0.55
+60;"Van Dijk, Ruud";;0.0;NED;M;1591;0;+0.00
+61;"Ududenko, Michael";;0.0;NED;M;1526;0;+0.00
+62;"Honda, Natu";;0.0;NED;M;479;337;-0.55

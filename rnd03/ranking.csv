@@ -26,11 +26,11 @@ Rank;Name;Flags;Score;Federation;Gender;Rating;TPR;W-We
 25;"Asthana, Aarush";;2.0;NED;M;1258;1814;+1.25
 26;"Moerenhout, Matthijs";;2.0;NED;M;0;1493;+0.50
 27;"Van den Heuvel, Mart";;2.0;NED;M;0 *;1779;0
-28;"Van de Pol, Johan";;2.0;PNG;M;0 *;1511;+0.50
+28;"Van de Pol, Johan";;2.0;NED;M;0 *;1511;+0.50
 29;"Hogenboom, Esther";;1.5;NED;F;1742;1608;+0.00
-30;"Grguric, Kaya";;1.5;NED;M;1542;925;-0.26
-31;"Boxebeld, Paul";;1.5;NED;M;0 *;1770;1770
-32;"Kricha, Alano";;1.5;NED;M;1550 *;1420;0
+30;"Kricha, Alano";;1.5;NED;M;1550 *;1420;0
+31;"Grguric, Kaya";;1.5;NED;M;1542;925;-0.26
+32;"Boxebeld, Paul";;1.5;NED;M;0 *;1770;1770
 33;"Van Ouwerkerk, Christiaan";;1.5;NED;M;0 *;1806;0
 34;"Dudink, Martijn";;1.0;NED;M;1729;458;-0.92
 35;"Von Mansberg, Paul";;1.0;NED;M;1683;1789;+0.14
@@ -46,19 +46,18 @@ Rank;Name;Flags;Score;Federation;Gender;Rating;TPR;W-We
 45;"Gupta, Swayam";;1.0;NED;M;1073;1116;-0.08
 46;"Aljadou, Helmi";;1.0;NED;M;0 *;1418;1418
 47;"Al Patty, Farid";;1.0;NED;M;0 *;1690;0
-48;"Berkhout, Ruud";;1.0;NEE;M;0 *;1350;1350
+48;"Berkhout, Ruud";;1.0;NED;M;0 *;1350;1350
 49;"Sotska, Mark";;1.0;NED;M;0;1030;0
-50;"Van de Pol, Johan";;1.0;   ;M;0 *;0;0
-51;"Van der Weg, Salim";;1.0;   ;M;0 *;736;0
-52;"Verhagen, Huub";;1.0;NED;M;0 *;1437;1437
-53;"Verlinden, Robbie";;1.0;NED;M;0 *;1069;1069
-54;"Yi, Lin Han";;1.0;NED;F;0 *;1113;1113
-55;"Van Dijk, Ruud";;0.0;NED;M;1591;0;+0.00
-56;"Ududenko, Michael";;0.0;NED;M;1526;0;+0.00
-57;"Borsboom, Matthias";;0.0;NED;M;1146;778;-0.26
-58;"Van den Berg, Sylvia";;0.0;NED;F;1022;1105;-0.08
-59;"Wiegel, Jelmer";;0.0;NED;M;1000 *;738;0
-60;"Van den Berg, Chris";;0.0;NED;M;951;1017;-0.08
-61;"Hogenboom, Monique";;0.0;NED;F;777;706;-0.16
-62;"Honda, Natu";;0.0;NED;M;479;637;-0.16
-63;"Aybek, Emre";;0.0;NED;M;0 *;704; 704
+50;"Van der Weg, Salim";;1.0;NED;M;0 *;736;0
+51;"Verhagen, Huub";;1.0;NED;M;0 *;1437;1437
+52;"Verlinden, Robbie";;1.0;NED;M;0 *;1069;1069
+53;"Yi, Lin Han";;1.0;NED;F;0 *;1113;1113
+54;"Van Dijk, Ruud";;0.0;NED;M;1591;0;+0.00
+55;"Ududenko, Michael";;0.0;NED;M;1526;0;+0.00
+56;"Borsboom, Matthias";;0.0;NED;M;1146;778;-0.26
+57;"Van den Berg, Sylvia";;0.0;NED;F;1022;1105;-0.08
+58;"Wiegel, Jelmer";;0.0;NED;M;1000 *;738;0
+59;"Van den Berg, Chris";;0.0;NED;M;951;1017;-0.08
+60;"Hogenboom, Monique";;0.0;NED;F;777;706;-0.16
+61;"Honda, Natu";;0.0;NED;M;479;637;-0.16
+62;"Aybek, Emre";;0.0;NED;M;0 *;704; 704

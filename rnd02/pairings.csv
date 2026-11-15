@@ -8,7 +8,7 @@ Board;WhiteNr;WhiteFideId;WhiteName;WhiteElo;WhitePoints;Result;BlackPoints;Blac
 7;7;7393705;"De Freytas, Paul";1865;1.0;1-0;1.0;1382;"Borsboom, Frederik";9122069;28
 8;29;9067289;"Jerald, Rafael";1350;1.0;0-1;1.0;1817;"Hofland, Jeffrey";8084417;8
 9;9;9096153;"Ramcharan, Aileshwar";1816;1.0;1/2-1/2;1.0;0;"Boxebeld, Paul";;46
-10;43;;"Al Patty, Farid";0;1.0;0-1;1.0;0;"Van Dijken, Bert";7545890;54
+10;43;9152352;"Al Patty, Farid";0;1.0;0-1;1.0;0;"Van Dijken, Bert";7545890;54
 11;11;8983447;"Borremans, Adrie";1753;1.0;1/2-1/2;1.0;1725;"Mes, Hans";8886669;50
 12;49;8946179;"Kuhling, Yvo";1683;1.0;1/2-1/2;1.0;1789;"Wagner, André";7460365;10
 13;12;9066761;"Narasimhan, Lakshay";1753;1.0;1-0;1.0;0;"Verhagen, Huub";;60
@@ -31,4 +31,3 @@ Board;WhiteNr;WhiteFideId;WhiteName;WhiteElo;WhitePoints;Result;BlackPoints;Blac
 30;61;;"Verlinden, Robbie";0;0.0;1-0;0.0;777;"Hogenboom, Monique";8861710;40
 -;22;8933540;"Van Dijk, Ruud";1591;0.0;0;;;bye
 -;24;9018944;"Ududenko, Michael";1526;0.0;0;;;bye
--;57;;"Van de Pol, Johan";0;1.0;0;;;bye

@@ -8,12 +8,12 @@ Board;WhiteNr;WhiteFideId;WhiteName;WhiteElo;WhitePoints;Result;BlackPoints;Blac
 7;18;9069291;"Jin, Hongyi";1651;4.0;0-1;4.0;1683;"Von Mansberg, Paul";9174429;62
 8;30;9136600;"Asthana, Aarush";1258;4.0;1/2-1/2;3.5;1542;"Grguric, Kaya";8985350;23
 9;50;8886669;"Mes, Hans";1725;3.5;1-0;3.5;1729;"Dudink, Martijn";9034861;16
-10;14;7290107;"Verschoor, Marcel";1742;3.5;1-0;3.5;1753;"Borremans, Adrie";8983447;11
-11;55;;"Van Ouwerkerk, Christiaan";0;3.5;1-0;3.5;1683;"Kuhling, Yvo";8946179;49
+10;14;7290107;"Verschoor, Marcel";1742;3.5;0-1;3.5;1753;"Borremans, Adrie";8983447;11
+11;55;;"Van Ouwerkerk, Christiaan";0;3.5;0-1;3.5;1683;"Kuhling, Yvo";8946179;49
 12;58;9189389;"Van de Pol, Johan";0;3.5;0-1;3.5;0;"Van Dijken, Bert";7545890;54
 13;48;9101939;"Kricha, Alano";1550;3.5;1/2-1/2;3.5;1731;"Guitierrez Fernandez, José";9177465;15
 14;27;9080852;"Steenbergh, Sebastiaan";1413;3.0;1/2-1/2;3.5;1520;"De Korver, Lennard";9100509;25
-15;20;9078223;"Anand, Saket Ram";1648;3.0;0-1;3.0;0;"Al Patty, Farid";;43
+15;20;9078223;"Anand, Saket Ram";1648;3.0;0-1;3.0;0;"Al Patty, Farid";9152352;43
 16;17;7659916;"Bons, Maurits";1705;3.0;1-0;3.0;1350;"Jerald, Rafael";9067289;29
 17;26;9169974;"Kievit, Jaap";1424;3.0;1/2-1/2;3.0;0;"Van den Heuvel, Mart";;56
 18;8;8084417;"Hofland, Jeffrey";1817;3.0;0-1;3.0;0;"Moerenhout, Matthijs";9190610;51
@@ -31,4 +31,3 @@ Board;WhiteNr;WhiteFideId;WhiteName;WhiteElo;WhitePoints;Result;BlackPoints;Blac
 30;41;9150537;"Honda, Natu";479;0.0;0-1;1.0;1073;"Gupta, Swayam";9168973;36
 -;22;8933540;"Van Dijk, Ruud";1591;0.0;0;;;bye
 -;24;9018944;"Ududenko, Michael";1526;0.0;0;;;bye
--;57;;"Van de Pol, Johan";0;1.0;0;;;bye

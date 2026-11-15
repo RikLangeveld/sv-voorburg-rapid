@@ -13,52 +13,51 @@ Rank;Name;Flags;Score;Federation;Gender;Rating;TPR;W-We
 12;"Narasimhan, Lakshay";;1.0;NED;M;1753;0;+0.00
 13;"Hogenboom, Esther";;1.0;NED;F;1742;1946;+0.08
 14;"Guitierrez Fernandez, José";;1.0;NED;M;1731;1996;+0.08
-15;"Bons, Maurits";;1.0;NED;M;1705;2399;+0.36
-16;"Anand, Saket Ram";;1.0;NED;M;1648;0;+0.00
-17;"Asthana, Reyansh";;1.0;NED;M;1616;2011;+0.08
-18;"De Korver, Lennard";;1.0;NED;M;1520;0;+0.00
-19;"Kievit, Jaap";;1.0;NED;M;1424;0;+0.00
-20;"Borsboom, Frederik";;1.0;NED;M;1382;0;+0.00
-21;"Jerald, Rafael";;1.0;NED;M;1350;0;+0.00
-22;"Al Patty, Farid";;1.0;NED;M;0 *;2529;0
-23;"Boxebeld, Paul";;1.0;NED;M;0 *;2542;0
-24;"Kuhling, Yvo";;1.0;NED;M;1683;2451;+0.46
-25;"Mes, Hans";;1.0;NED;M;1725;2449;+0.40
+15;"Mes, Hans";;1.0;NED;M;1725;2449;+0.40
+16;"Bons, Maurits";;1.0;NED;M;1705;2399;+0.36
+17;"Kuhling, Yvo";;1.0;NED;M;1683;2451;+0.46
+18;"Anand, Saket Ram";;1.0;NED;M;1648;0;+0.00
+19;"Asthana, Reyansh";;1.0;NED;M;1616;2011;+0.08
+20;"De Korver, Lennard";;1.0;NED;M;1520;0;+0.00
+21;"Kievit, Jaap";;1.0;NED;M;1424;0;+0.00
+22;"Borsboom, Frederik";;1.0;NED;M;1382;0;+0.00
+23;"Jerald, Rafael";;1.0;NED;M;1350;0;+0.00
+24;"Al Patty, Farid";;1.0;NED;M;0 *;2529;0
+25;"Boxebeld, Paul";;1.0;NED;M;0 *;2542;0
 26;"Van Dijken, Bert";;1.0;NED;M;0;1279;0
 27;"Van den Heuvel, Mart";;1.0;NED;M;0 *;0;0
-28;"Van de Pol, Johan";;1.0;   ;M;0 *;0;0
-29;"Verhagen, Huub";;1.0;NED;M;0 *;2213;0
-30;"Grguric, Kaya";;0.5;NED;M;1542;0;+0.00
-31;"Kricha, Alano";;0.5;NED;M;1550 *;1683;0
+28;"Verhagen, Huub";;1.0;NED;M;0 *;2213;0
+29;"Von Mansberg, Paul";;0.5;NED;M;1683;0;+0.00
+30;"Kricha, Alano";;0.5;NED;M;1550 *;1683;0
+31;"Grguric, Kaya";;0.5;NED;M;1542;0;+0.00
 32;"Van Ouwerkerk, Christiaan";;0.5;NED;M;0 *;1542;0
-33;"Von Mansberg, Paul";;0.5;NED;M;1683;0;+0.00
-34;"Verschoor, Marcel";;0.0;NED;M;1742;0;+0.00
-35;"Dudink, Martijn";;0.0;NED;M;1729;0;+0.00
-36;"Jin, Hongyi";;0.0;NED;M;1651;883;-0.46
-37;"Groenewegen, Max";;0.0;NED;M;1649;925;-0.40
+33;"Verschoor, Marcel";;0.0;NED;M;1742;0;+0.00
+34;"Dudink, Martijn";;0.0;NED;M;1729;0;+0.00
+35;"Jin, Hongyi";;0.0;NED;M;1651;883;-0.46
+36;"Groenewegen, Max";;0.0;NED;M;1649;925;-0.40
+37;"Hermsen, Jan";;0.0;NED;M;1599;905;-0.36
 38;"Van Dijk, Ruud";;0.0;NED;M;1591;0;+0.00
 39;"Ududenko, Michael";;0.0;NED;M;1526;0;+0.00
 40;"Steenbergh, Sebastiaan";;0.0;NED;M;1413;0;+0.00
 41;"Asthana, Aarush";;0.0;NED;M;1258;1341;-0.08
-42;"Van den Heuvel, Milan";;0.0;NED;M;1210;1226;-0.08
-43;"De Moulin, Marvin";;0.0;NED;M;1196;931;-0.08
-44;"Borsboom, Matthias";;0.0;NED;M;1146;942;-0.08
-45;"Selvakumar, Vidhulan";;0.0;NED;M;1132;1180;-0.08
-46;"Basu, Ankur Kumar";;0.0;NED;M;1109;1165;-0.08
-47;"Gupta, Swayam";;0.0;NED;M;1073;1116;-0.08
-48;"Van den Berg, Sylvia";;0.0;NED;F;1022;1105;-0.08
-49;"Wiegel, Jelmer";;0.0;NED;M;1000 *;1065;0
-50;"Van den Berg, Chris";;0.0;NED;M;951;1017;-0.08
-51;"Hogenboom, Monique";;0.0;NED;F;777;1016;-0.08
-52;"Honda, Natu";;0.0;NED;M;479;0;+0.00
-53;"Aljadou, Helmi";;0.0;NED;M;0 *;953;0
-54;"Aybek, Emre";;0.0;NED;M;0 *;989;0
-55;"Berkhout, Ruud";;0.0;NEE;M;0 *;953;0
-56;"Hermsen, Jan";;0.0;NED;M;1599;905;-0.36
+42;"Rutten, Tim";;0.0;NED;M;1211;816;-0.08
+43;"Van den Heuvel, Milan";;0.0;NED;M;1210;1226;-0.08
+44;"De Moulin, Marvin";;0.0;NED;M;1196;931;-0.08
+45;"Borsboom, Matthias";;0.0;NED;M;1146;942;-0.08
+46;"Selvakumar, Vidhulan";;0.0;NED;M;1132;1180;-0.08
+47;"Basu, Ankur Kumar";;0.0;NED;M;1109;1165;-0.08
+48;"Gupta, Swayam";;0.0;NED;M;1073;1116;-0.08
+49;"Van den Berg, Sylvia";;0.0;NED;F;1022;1105;-0.08
+50;"Wiegel, Jelmer";;0.0;NED;M;1000 *;1065;0
+51;"Van den Berg, Chris";;0.0;NED;M;951;1017;-0.08
+52;"Hogenboom, Monique";;0.0;NED;F;777;1016;-0.08
+53;"Honda, Natu";;0.0;NED;M;479;0;+0.00
+54;"Aljadou, Helmi";;0.0;NED;M;0 *;953;0
+55;"Aybek, Emre";;0.0;NED;M;0 *;989;0
+56;"Berkhout, Ruud";;0.0;NED;M;0 *;953;0
 57;"Moerenhout, Matthijs";;0.0;NED;M;0;848;0
-58;"Rutten, Tim";;0.0;NED;M;1211;816;-0.08
-59;"Sotska, Mark";;0.0;NED;M;0;0;0
-60;"Van de Pol, Johan";;0.0;PNG;M;0 *;720;0
-61;"Van der Weg, Salim";;0.0;   ;M;0 *;624;0
-62;"Verlinden, Robbie";;0.0;NED;M;0 *;582;0
-63;"Yi, Lin Han";;0.0;NED;F;0 *;550;0
+58;"Sotska, Mark";;0.0;NED;M;0;0;0
+59;"Van de Pol, Johan";;0.0;NED;M;0 *;720;0
+60;"Van der Weg, Salim";;0.0;NED;M;0 *;624;0
+61;"Verlinden, Robbie";;0.0;NED;M;0 *;582;0
+62;"Yi, Lin Han";;0.0;NED;F;0 *;550;0
